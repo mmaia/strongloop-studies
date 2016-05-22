@@ -2,5 +2,14 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "StrongLoopGettingStarted": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "StrongLoopGettingStarted",
+    "password": "",
+    "name": "StrongLoopGettingStarted",
+    "user": "",
+    "connector": "mongodb"
   }
 }

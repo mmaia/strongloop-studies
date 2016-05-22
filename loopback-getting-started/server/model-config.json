@@ -14,26 +14,26 @@
     ]
   },
   "User": {
-    "dataSource": "db"
+    "dataSource": "StrongLoopGettingStarted"
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "StrongLoopGettingStarted",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "StrongLoopGettingStarted",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "StrongLoopGettingStarted",
     "public": false
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "StrongLoopGettingStarted",
     "public": false
   },
   "CoffeeShop": {
-    "dataSource": "db",
+    "dataSource": "StrongLoopGettingStarted",
     "public": true
   }
 }
