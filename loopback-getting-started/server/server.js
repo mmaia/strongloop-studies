@@ -1,7 +1,7 @@
 var loopback = require('loopback');
 var boot = require('loopback-boot');
-
 var app = module.exports = loopback();
+var ds = app.dataSources.StrongLoopGettingStarted;
 
 app.start = function() {
   // start the web server
